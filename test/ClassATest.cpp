@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 
-#include "ClassA.h"
+#include "ClassA.hpp"
 
 TEST(sumA1, normal) {
   ClassA target = {};
